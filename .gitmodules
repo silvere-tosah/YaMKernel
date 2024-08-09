@@ -1,0 +1,3 @@
+[submodule "light-rpi3"]
+	path = src/arch/rpi3/light-rpi3
+	url = git@github.com:silvere-tosah/light-rpi3.git
